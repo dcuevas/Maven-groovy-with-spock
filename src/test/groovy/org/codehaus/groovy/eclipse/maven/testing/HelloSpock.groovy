@@ -43,4 +43,5 @@ class HelloSpock extends Specification {
 		new Bar("") | "Hola"
 		new Bar(" ") | "Hola "
 	}
+
 }
