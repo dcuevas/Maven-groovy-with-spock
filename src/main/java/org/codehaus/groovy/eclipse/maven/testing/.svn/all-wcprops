@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/groovy/!svn/ver/22833/eclipse/trunk/extras/groovy-eclipse-maven-tests/src/main/java/org/codehaus/groovy/eclipse/maven/testing
+END
+Helper.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/groovy/!svn/ver/21546/eclipse/trunk/extras/groovy-eclipse-maven-tests/src/main/java/org/codehaus/groovy/eclipse/maven/testing/Helper.groovy
+END
+Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/groovy/!svn/ver/22833/eclipse/trunk/extras/groovy-eclipse-maven-tests/src/main/java/org/codehaus/groovy/eclipse/maven/testing/Bar.java
+END
+Foo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/groovy/!svn/ver/22833/eclipse/trunk/extras/groovy-eclipse-maven-tests/src/main/java/org/codehaus/groovy/eclipse/maven/testing/Foo.groovy
+END
